@@ -1,6 +1,6 @@
 # Ringostat Integration for Odoo
 
-This module serves as the entry point for integrating with the **Ringostat** platform — an AI-powered business phone, call tracking, and analytics platform.
+This module serves as the entry point for integrating with the **Ringostat** platform an AI-powered business phone, call tracking, and analytics platform.
 
 ## What the module does
 
